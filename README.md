@@ -12,7 +12,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Overview
 
-Using html + sass Code is same for desktop / mobile (fixed sized + ventered horiwontally/vertically)
+Using html + sass Code is same for desktop / mobile (fixed sized + Centered horizontally/vertically)
 
 ### Screenshot
 
